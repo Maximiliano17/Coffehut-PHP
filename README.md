@@ -2,8 +2,8 @@
    <img src="https://minecraft-tutos.com/wp-content/uploads/2020/11/how-to-make-a-book-in-minecraft.jpg" width="400" align="center"/>
   </div>  
   <div>
-  <h1 align="center">Coffy hub</h1>
-  <p align="center">Mi portafolio profecional subido a vercel.</p>
+  <h1 align="center">Coffe Hub</h1>
+  <p align="center">Red social echa con PHP.</p>
 </div> 
   <div>
   <h1 align="center">Tecnologias Utilizadas</h1>
